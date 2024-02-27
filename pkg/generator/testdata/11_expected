@@ -1,0 +1,5 @@
+package generated
+
+type JSONToStruct struct {
+	_234 string `json:"1234"`
+}

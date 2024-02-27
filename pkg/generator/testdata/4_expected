@@ -1,0 +1,6 @@
+package generated
+
+type JSONToStruct []struct {
+	Testbool   bool   `json:"testbool"`
+	Teststring string `json:"teststring"`
+}
